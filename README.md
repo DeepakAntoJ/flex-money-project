@@ -1,3 +1,38 @@
+# To Start keep the backend in a seperate file
+The backend file must include .env file and store two envinormental variables
+PORT=****
+MONGO_URI = PORT=4000
+MONGO_URI = mongodb+srv://<Username>:<password>@cluster0.cgdzxan.mongodb.net/?retryWrites=true&w=majority
+
+# Now next step.
+Do npm install to install necessary dependecies
+
+# Now next step.
+npm run dev
+
+To run the backend.
+
+
+# To start the FrontEnd
+npm install.
+
+# Next.
+npm start.
+
+
+
+# ER diagram
+
++----------------+       +----------------+       +----------------+
+|    User        |       |   Enrollment   |       |    Batch       |
++----------------+       +----------------+       +----------------+
+|    User_ID     |<----->|                |<----->|                |
+|    Name        |       |    Month       |       |    Time        |
+|    Age         |       |    Fee         |       |                |
+|    Email       |       +----------------+       +----------------+
++----------------+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

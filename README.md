@@ -2,7 +2,7 @@
 The backend file must include .env file and store two envinormental variables
 
 # PORT=****
-# PORT=4000
+
 # MONGO_URI = mongodb+srv://<Username>:<password>@cluster0.cgdzxan.mongodb.net/?retryWrites=true&w=majority
 
 # Now next step.

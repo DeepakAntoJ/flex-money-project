@@ -1,8 +1,9 @@
 # To Start keep the backend in a seperate file
 The backend file must include .env file and store two envinormental variables
-PORT=****
-MONGO_URI = PORT=4000
-MONGO_URI = mongodb+srv://<Username>:<password>@cluster0.cgdzxan.mongodb.net/?retryWrites=true&w=majority
+
+# PORT=****
+# PORT=4000
+# MONGO_URI = mongodb+srv://<Username>:<password>@cluster0.cgdzxan.mongodb.net/?retryWrites=true&w=majority
 
 # Now next step.
 Do npm install to install necessary dependecies
@@ -10,7 +11,7 @@ Do npm install to install necessary dependecies
 # Now next step.
 npm run dev
 
-To run the backend.
+# To run the backend.
 
 
 # To start the FrontEnd

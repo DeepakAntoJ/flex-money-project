@@ -1,3 +1,7 @@
+# Sorry for the delay 
+here's the deployment link 
+https://6585874b56d734c9cdd1a19c--exquisite-quokka-25673f.netlify.app/
+
 # To Start keep the backend in a seperate file
 The backend file must include .env file and store two envinormental variables
 

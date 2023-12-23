@@ -2,6 +2,11 @@
 here's the deployment link 
 https://6585874b56d734c9cdd1a19c--exquisite-quokka-25673f.netlify.app/
 
+# here's another github link for my assignment.
+https://github.com/DeepakAntoJ/MERN-PROJECT/tree/master
+in my previous github repo i couldn't upload it from my code editior bcz i had some ssh key problem.
+please consider this one.
+
 # To Start keep the backend in a seperate file
 The backend file must include .env file and store two envinormental variables
 
